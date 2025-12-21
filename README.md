@@ -1,7 +1,7 @@
 #make
 
 [![Puppet Forge](http://img.shields.io/puppetforge/v/puppet/make.svg)](https://forge.puppetlabs.com/puppet/make)
-[![Build Status](https://travis-ci.org/voxpupuli/puppet-make.png?branch=master)](https://travis-ci.org/voxpupuli/puppet-make)
+![Build Status](https://github.com/voxpupuli/puppet-make/actions/workflows/ci.yml/badge.svg?branch=master)
 [![Github Tag](https://img.shields.io/github/tag/voxpupuli/puppet-make.svg)](https://github.com/voxpupuli/puppet-make)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/voxpupuli/puppet-make?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 [![Puppet Forge Downloads](http://img.shields.io/puppetforge/dt/puppet/make.svg)](https://forge.puppetlabs.com/puppet/make)
