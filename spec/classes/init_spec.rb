@@ -20,13 +20,13 @@ describe 'make', type: :class do
     context 'overriding package_name parameter on FreeBSD' do
       let :params do
         {
-          package_name: 'gmake'
+          package_name: 'gmake',
         }
       end
       let :facts do
         {
           osfamily: 'FreeBSD',
-          operatingsystem: 'FreeBSD'
+          operatingsystem: 'FreeBSD',
         }
       end
 
